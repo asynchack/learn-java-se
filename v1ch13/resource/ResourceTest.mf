@@ -1,0 +1,2 @@
+Main-Class: v1ch13.resource.ResourceTest
+Sealed: true
